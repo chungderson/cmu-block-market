@@ -1,0 +1,22 @@
+# Raw Discord data
+*.json
+block-market_*/
+
+# Processed data
+cmu_block_market_transactions.csv
+
+# R artifacts
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
