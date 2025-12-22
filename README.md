@@ -40,7 +40,7 @@ Higher granularity view of intraday price movements.
 ![4H Candlesticks](price_candle_4h_wide.png)
 
 ### Volume by Price Level
-Total blocks traded at each price point (rounded to nearest $0.50). A nonzero number of blocks were traded at $6.70 and $9.11, for whatever reason.
+Total blocks traded at each price point (rounded to nearest $0.50). A nonzero number of blocks were traded at $4.20, $6.70 and $9.11, for whatever reason.
 ![Volume Discrete](volume_price_discrete.png)
 
 ### Activity Heatmap
