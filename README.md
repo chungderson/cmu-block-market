@@ -3,7 +3,28 @@
 An analysis of the Carnegie Mellon University dining block secondary market, where students (primarily first-years, who are obligated to purchase the university meal plan) trade excess meal swipes ("blocks") for cash via Venmo or Zelle through a Discord server.
 
 ---
+### Market Overview
 
+| Metric | Value |
+|--------|------:|
+| **Total Transactions** | 21,558 |
+| **Total Blocks Traded** | 22,407 |
+| **Total Dollar Volume** | $149,629 |
+| **Market Duration** | 117 days |
+| **Date Range** | Aug 23 – Dec 18, 2025 |
+
+*Note: Outliers (>$15/block) excluded from price analysis.*
+
+### Price Statistics
+
+| Statistic | Value |
+|-----------|------:|
+| **Mean Price/Block** | $6.73 |
+| **Median Price/Block** | $7.00 |
+| **Standard Deviation** | $1.72 |
+| **Minimum** | $0.50 |
+| **Maximum** | $15.00 |
+---
 ## Visual Market Overview
 
 ### Daily Candlestick Chart with Volume
@@ -19,7 +40,7 @@ Higher granularity view of intraday price movements.
 ![4H Candlesticks](price_candle_4h_wide.png)
 
 ### Volume by Price Level
-Total blocks traded at each price point (rounded to nearest $0.50).
+Total blocks traded at each price point (rounded to nearest $0.50). A nonzero number of blocks were traded at $6.70 and $9.11, for whatever reason.
 ![Volume Discrete](volume_price_discrete.png)
 
 ### Activity Heatmap
@@ -51,28 +72,6 @@ Breakdown of when the top 20 buyers purchase their blocks.
 ---
 
 ## Market Statistics
-
-### Market Overview
-
-| Metric | Value |
-|--------|------:|
-| **Total Transactions** | 21,558 |
-| **Total Blocks Traded** | 22,407 |
-| **Total Dollar Volume** | $149,629 |
-| **Market Duration** | 117 days |
-| **Date Range** | Aug 23 – Dec 18, 2025 |
-
-*Note: Outliers (>$15/block) excluded from price analysis.*
-
-### Price Statistics
-
-| Statistic | Value |
-|-----------|------:|
-| **Mean Price/Block** | $6.73 |
-| **Median Price/Block** | $7.00 |
-| **Standard Deviation** | $1.72 |
-| **Minimum** | $0.50 |
-| **Maximum** | $15.00 |
 
 #### Price Distribution (Quartiles)
 
@@ -115,6 +114,19 @@ Breakdown of when the top 20 buyers purchase their blocks.
 | **Weekend** | 4,241 | $5.82 | $25,790 |
 
 > **Weekend Discount**: Prices drop ~16% on weekends ($5.82 vs $6.96 on weekdays).
+
+#### School Break Analysis
+
+Analysis of price behavior during major school breaks (Labor Day, Fall Break, Thanksgiving).
+
+| Period | Avg Price | Avg Daily Volume |
+|--------|----------:|-----------------:|
+| **Regular Session** | $6.76 | 200 blocks |
+| **School Breaks** | $5.57 | 64 blocks |
+
+> **Holiday Discount**: Prices drop **17.72%** and daily trading volume plummets **68%** during school breaks as demand vanishes while supply remains roughly the same (students can fulfill orders through grubhub, regardless of their location).
+
+![Footprint with Breaks](price_footprint_breaks.png)
 
 #### Peak Trading Hours (EST)
 
