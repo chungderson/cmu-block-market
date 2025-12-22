@@ -61,7 +61,6 @@ A look at the biggest movers in the market by total dollar volume.
 
 ### Meal Preferences of Top Buyers
 Breakdown of when the top 20 buyers purchase their blocks.
-![Meal Breakdown](top_meal_consumers.png)
 ![Meal Breakdown Detailed](top_buyers_meal_breakdown.png)
 
 ### Top Buyers by Block Volume
