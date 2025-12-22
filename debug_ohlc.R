@@ -46,3 +46,4 @@ day_data <- df %>% filter(as_date(timestamp) == sample_day)
 is_sorted <- !is.unsorted(day_data$timestamp)
 cat("Is data chronologically sorted in dataframe by default?", is_sorted, "\n")
 
+

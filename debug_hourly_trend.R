@@ -25,3 +25,4 @@ hourly_trend <- df_clean %>%
 
 print(hourly_trend, n=24)
 
+
