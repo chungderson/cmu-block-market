@@ -3,8 +3,11 @@
 An analysis of the Carnegie Mellon University dining block secondary market, where students (primarily first-years, who are obligated to purchase the university meal plan) trade excess meal swipes ("blocks") for cash via Venmo or Zelle through a Discord server.
 
 ---
-### Market Overview
+<table>
+<tr>
+<td width="60%" valign="top">
 
+### Market Overview
 | Metric | Value |
 |--------|------:|
 | **Total Transactions** | 21,558 |
@@ -15,13 +18,7 @@ An analysis of the Carnegie Mellon University dining block secondary market, whe
 
 *Note: Outliers (>$15/block) excluded from price analysis.*
 
-### Example Market Activity
-A snapshot of typical trading in the `#block-market` channel.
-
-<img src="market_activity_example.png" width="600" alt="Market Activity">
-
 ### Price Statistics
-
 | Statistic | Value |
 |-----------|------:|
 | **Mean Price/Block** | $6.73 |
@@ -29,6 +26,16 @@ A snapshot of typical trading in the `#block-market` channel.
 | **Standard Deviation** | $1.72 |
 | **Minimum** | $0.50 |
 | **Maximum** | $15.00 |
+
+</td>
+<td width="40%" valign="top">
+
+### Example Activity
+<img src="market_activity_example.png" width="300" alt="Market Activity">
+
+</td>
+</tr>
+</table>
 ---
 ## Visual Market Overview
 
