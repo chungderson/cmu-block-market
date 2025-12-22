@@ -17,6 +17,7 @@ An analysis of the Carnegie Mellon University dining block secondary market, whe
 | **Date Range** | Aug 23 – Dec 18, 2025 |
 
 *Note: Outliers (>$15/block) excluded from price analysis.*
+*Note 2: Some transactions were for two blocks--this was taken into account.*
 
 ### Price Statistics
 | Statistic | Value |
