@@ -94,6 +94,28 @@ Breakdown of when the top 20 buyers purchase their blocks.
 - **Top 10 sellers** account for **8.6%** of total earnings
 > The market is relatively decentralized — no single participant dominates.
 
+#### Buyer Spending Distribution
+
+| Percentile | Amount Spent |
+|------------|-------------:|
+| 25% | $13.00 |
+| 50% (Median) | $39.00 |
+| 75% | $107.50 |
+| 90% | $228.07 |
+| 95% | $325.72 |
+| 99% | $618.55 |
+| Max | $1,633.95 |
+
+*Note: The spending distribution is highly right-skewed (power law), meaning a small number of "power buyers" spend significantly more than the average student. A log scale is typically used to visualize this type of data, but a linear scale is shown below for simplicity.*
+
+### Linear Scale
+Most buyers spend <$100, with a long tail of high spenders.
+![Buyer Spend Distribution](buyer_spend_distribution.png)
+
+### Log Scale
+Applying a log scale reveals the underlying structure of spending habits.
+![Buyer Spend Distribution Log](buyer_spend_distribution_log.png)
+
 ### Meal Time Breakdown
 
 | Meal | Transactions | % of Market | Avg Price |
@@ -103,6 +125,10 @@ Breakdown of when the top 20 buyers purchase their blocks.
 | **Breakfast** (6a–10:30a) | 286 | 1.3% | $5.82 |
 
 > **Insight**: Lunch dominates the market, but dinner commands nearly half of all transactions. Breakfast is negligible.
+
+### Meal Consumption Summary
+Total blocks consumed by meal time.
+![Meal Consumption](meal_consumption_summary.png)
 
 ### Time-Based Patterns
 
