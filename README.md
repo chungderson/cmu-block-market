@@ -23,7 +23,7 @@ An analysis of the Carnegie Mellon University dining block secondary market, whe
 ### Daily Candlestick Chart with Volume
 OHLC candlestick visualization showing price action and trading volume by day.
 
-![Daily Candlesticks](price_candle_1d.png)
+![Daily Candlesticks](image.png)
 
 ### 4-Hour Candlestick Chart
 Higher granularity view of intraday price movements.
