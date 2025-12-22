@@ -33,7 +33,7 @@ OHLC candlestick visualization showing price action and trading volume by day.
 
 ### Price Footprint Heatmap
 Daily distribution of transactions by price level. Darker regions represent higher volume. This visualization helps identify price consolidation zones and high-activity price levels over time.
-![Footprint Heatmap](price_footprint_heatmap.png)
+![Footprint Heatmap](price_footprint_breaks_v2.png)
 
 ### 4-Hour Candlestick Chart
 Higher granularity view of intraday price movements.
@@ -152,7 +152,7 @@ Analysis of price behavior during major school breaks (Labor Day, Fall Break, Th
 
 > **Holiday Discount**: Prices drop **17.72%** and daily trading volume plummets **68%** during school breaks as demand vanishes while supply remains roughly the same (students can fulfill orders through grubhub, regardless of their location).
 
-![Footprint with Breaks](price_footprint_breaks.png)
+![Footprint with Breaks](price_footprint_breaks_v2.png)
 
 #### Peak Trading Hours (EST)
 
