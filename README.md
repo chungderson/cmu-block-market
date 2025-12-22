@@ -25,6 +25,16 @@ OHLC candlestick visualization showing price action and trading volume by day.
 
 ![Daily Candlesticks](image.png)
 
+---
+
+## Market Microstructure
+
+### Price Footprint Heatmap
+Daily distribution of transactions by price level. Darker = more volume.
+
+![Footprint Heatmap](price_footprint_heatmap.png)
+
+---
 ### 4-Hour Candlestick Chart
 Higher granularity view of intraday price movements.
 
@@ -48,16 +58,6 @@ Total blocks traded at each price point (rounded to nearest $0.50).
 Total value of transactions per week.
 
 ![Weekly Dollar Volume](dollar_volume_weekly.png)
-
----
-
-## Market Microstructure
-
-### Price Footprint Heatmap
-Daily distribution of transactions by price level. Darker = more volume.
-
-![Footprint Heatmap](price_footprint_heatmap.png)
-
 
 ---
 
