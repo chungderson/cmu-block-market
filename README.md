@@ -63,6 +63,21 @@ Summary of market activity patterns in EST.
 
 ![Trends Table](summary_trends_table_est.png)
 
+### Transaction Volume by Hour
+Distribution of transactions throughout the day (EST). Lunch (11a-1p) and Dinner (5p-7p) peaks are clearly visible.
+
+![Hourly Volume](hist_transactions_by_hour.png)
+
+### Transaction Volume by Day of Week
+Monday is the busiest day, with activity tapering off towards the weekend.
+
+![Daily Volume](hist_transactions_by_day.png)
+
+### Activity Heatmap
+Visualizing the "hot zones" for trading activity.
+
+![Activity Heatmap](heatmap_activity_day_hour.png)
+
 **Key Findings:**
 - **Peak Hours**: 11 AM – 1 PM (lunch rush)
 - **Highest Volume Days**: Monday, Tuesday, Wednesday
