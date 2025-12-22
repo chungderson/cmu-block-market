@@ -1,6 +1,6 @@
 # CMU Block Market Analysis
 
-An analysis of the Carnegie Mellon University dining block secondary market, where students trade meal swipes ("blocks") for cash via Discord.
+An analysis of the Carnegie Mellon University dining block secondary market, where students (primarily first-years, who are obligated to purchase the university meal plan) trade excess meal swipes ("blocks") for cash (venmo, or zelle) via Discord.
 
 ## Market Overview
 
