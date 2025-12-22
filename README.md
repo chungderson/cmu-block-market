@@ -27,11 +27,17 @@ An analysis of the Carnegie Mellon University dining block secondary market, whe
 | **Minimum** | $0.50 |
 | **Maximum** | $15.00 |
 
+### Participant Demographics
+| Role | Count | Median Activity | Median $ | Max $ |
+|------|------:|----------------:|---------:|------:|
+| **Buyers** | 1,738 | 6 blocks | $39 | $1,634 |
+| **Sellers** | 882 | 16 blocks | $97 | $1,772 |
+
 </td>
 <td width="40%" valign="top">
 
 ### Example Activity
-Upperclassmen ping block sellers with their order details: `gh` (Grubhub), `v`/`z` (Venmo/Zelle), and the offer price.
+Upperclassmen ping block sellers with their order details: `gh` (Grubhub), `v`/`z` (Venmo/Zelle), and the offer price. Freshmen then respond "DM" to orders they wish to fulfill.
 
 <img src="market_activity_example.png" width="300" alt="Market Activity">
 
