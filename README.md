@@ -33,7 +33,7 @@ OHLC candlestick visualization showing price action and trading volume by day.
 
 ### Price Footprint Heatmap
 Daily distribution of transactions by price level. Darker regions represent higher volume. This visualization helps identify price consolidation zones and high-activity price levels over time.
-![Footprint Heatmap](price_footprint_breaks_v2.png)
+![Footprint Heatmap](price_footprint_heatmap.png)
 
 ### 4-Hour Candlestick Chart
 Higher granularity view of intraday price movements.
@@ -62,6 +62,7 @@ A look at the biggest movers in the market by total dollar volume.
 ### Meal Preferences of Top Buyers
 Breakdown of when the top 20 buyers purchase their blocks.
 ![Meal Breakdown](top_meal_consumers.png)
+![Meal Breakdown Detailed](top_buyers_meal_breakdown.png)
 
 ### Top Buyers by Block Volume
 ![Top Buyers](top_buyers.png)
