@@ -37,6 +37,7 @@ An analysis of the Carnegie Mellon University dining block secondary market, whe
 </tr>
 </table>
 ---
+
 ## Visual Market Overview
 
 ### Daily Candlestick Chart with Volume
