@@ -39,10 +39,15 @@ Simple line chart of average transaction price.
 
 ## Volume Analysis
 
-### Volume vs Price Regression
-Relationship between transaction volume and price levels.
+### Volume by Price Level
+Total blocks traded at each price point (rounded to nearest $0.50).
 
-![Volume Regression](volume_price_regression.png)
+![Volume Discrete](volume_price_discrete.png)
+
+### Weekly Dollar Volume
+Total value of transactions per week.
+
+![Weekly Dollar Volume](dollar_volume_weekly.png)
 
 ---
 
