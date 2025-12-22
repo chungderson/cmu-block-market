@@ -74,7 +74,7 @@ Monday is the busiest day, with activity tapering off towards the weekend.
 ![Daily Volume](hist_transactions_by_day.png)
 
 ### Activity Heatmap
-Visualizing the "hot zones" for trading activity.
+Visualizing the "hot zones" for trading activity. Colors range from Yellow (low activity) to Black (high activity).
 
 ![Activity Heatmap](heatmap_activity_day_hour.png)
 
