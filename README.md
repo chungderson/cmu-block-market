@@ -31,12 +31,13 @@ An analysis of the Carnegie Mellon University dining block secondary market, whe
 <td width="40%" valign="top">
 
 ### Example Activity
+Upperclassmen ping block sellers with their order details: `gh` (Grubhub), `v`/`z` (Venmo/Zelle), and the offer price.
+
 <img src="market_activity_example.png" width="300" alt="Market Activity">
 
 </td>
 </tr>
 </table>
----
 
 ## Visual Market Overview
 
